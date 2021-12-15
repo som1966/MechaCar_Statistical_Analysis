@@ -33,7 +33,7 @@ T tests were conduct to see if there was a difference from the sample means and 
 
 For all lots, the p value is 0.06; meaning we fail to reject that there is statistical difference between the mean and the presumed population mean.
 
-### Lot 1 T Test Results
+## Lot 1 T Test Results
 
 ![TtesLot1](https://user-images.githubusercontent.com/89953246/146108181-1c693555-b057-406c-8d8b-82b2bffc5bd2.png)
 
@@ -41,10 +41,13 @@ Lot 1 p value is 1; meaning we fail to reject that there is statistical differen
 
 ![tTestLot2](https://user-images.githubusercontent.com/89953246/146108247-26e42bec-173a-405f-9c7e-421869f646df.png)
 
+## Lot 2 T Test Results
+
 Lot 2 p value is 0.60; meaning we fail to reject that there is statistical difference between the mean and the presumed population.
 
 ![tTestLot3](https://user-images.githubusercontent.com/89953246/146108395-aa08cbc0-021c-443d-b4ef-3572d4353f47.png)
 
+## Lot 3 T Test Results
 Lot 3 p value is 0.04; meaning we cannot reject that there is statistical difference between the mean and the presumed population.
 
 In summary,    All lots, Lot 1 and 2 are not statistically different from the population mean. Lot 3 has shown to be statistically different from the presumed population mean.

@@ -14,6 +14,11 @@ Multiple linear regression analysis was used to identify which variables in the 
  2.  The slope of the linear mode is not zero, there are two variables that are considered significant and affects mpg.
  3.  The linear model predicts mpg of MechaCar prototypes effectively based on the R-sqaured of 0.714. The R-squared means that 71% of the data fits the model.
  
+## Suspension Coils Summary Statistics
+
+![Total Summary](https://user-images.githubusercontent.com/89953246/146105528-dcdb36d0-f706-4558-9524-4ab9b9b3eac3.png)
+
+![LotSummary](https://user-images.githubusercontent.com/89953246/146105602-eceb89f3-b034-4600-a9ab-5b5c6d246957.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 

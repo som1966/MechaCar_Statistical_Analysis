@@ -21,6 +21,14 @@ Multiple linear regression analysis was used to identify which variables in the 
 ![LotSummary](https://user-images.githubusercontent.com/89953246/146105602-eceb89f3-b034-4600-a9ab-5b5c6d246957.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. 
-Overall PSI variance for the complete dataset is 6.29 which meets design specifications.  Data analysis was then performed by each individual lot.  Results show Lot 1 and 2 met design specification; .98 and 7.47 variance of coils respectively.  Lot 3 resulted in a variance of 170 pounds per square inch, thus failing design specifications.
+Overall PSI variance for the complete dataset is 6.29 which meets design specifications.  Data analysis was then performed by each individual lot.  Results showed Lot 1 and 2 met design specification; .98 and 7.47 variance of coils respectively.  Lot 3 resulted in a variance of 170 pounds per square inch, thus failing design specifications.
 
+## T Tests on Suspension Coils
 
+![t testAllLots](https://user-images.githubusercontent.com/89953246/146108145-22537314-966f-42a8-831a-9bd3eff8143b.png)
+
+![TtesLot1](https://user-images.githubusercontent.com/89953246/146108181-1c693555-b057-406c-8d8b-82b2bffc5bd2.png)
+
+![tTestLot2](https://user-images.githubusercontent.com/89953246/146108247-26e42bec-173a-405f-9c7e-421869f646df.png)
+
+![tTestLot2](https://user-images.githubusercontent.com/89953246/146108284-532dad9a-d7c1-492a-913e-2daa1e3ae394.png)

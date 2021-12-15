@@ -49,3 +49,14 @@ Lot 3 p value is 0.04; meaning we cannot reject that there is statistical differ
 
 In summary,    All lots, Lot 1 and 2 are not statistically different from the population mean. Lot 3 has shown to be statistically different from the presumed population mean.
 
+## Study Design:  MechaCar versus Competition
+
+In today's world, the customer is very interested in car saftey ratings. Safety ratings (1-5) are usually determined by crash tests resulting in the likelihood of injuries and safety features.  
+
+### Hypothesis
+
+Null Hypothesis = There is no difference in the average for safety ratings between MechaCar and the competition.
+Alternate Hypothesis = There is a difference in the average for safety ratings between MechaCare and the competition.
+
+### Statistical Tests
+ANOVA techniques allow the analysis of averages with three or more samples at a time.  

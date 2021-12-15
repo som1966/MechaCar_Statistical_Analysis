@@ -27,15 +27,16 @@ Overall PSI variance for the complete dataset is 6.29 which meets design specifi
 
 T tests were conduct to see if there was a difference from the sample means and the presumed population mean of 1500 pounds per square inch.  The p value for the these test is set at 0.05 (95% confidence level).
 
-# The t test for all lots:
+### All Lots T Test:
 
 ![t testAllLots](https://user-images.githubusercontent.com/89953246/146108145-22537314-966f-42a8-831a-9bd3eff8143b.png)
 
 For all lots, the p value is 0.06; meaning we fail to reject that there is statistical difference between the mean and the presumed population mean.
 
-# Lot 1 T Test Results
+### Lot 1 T Test Results
 
 ![TtesLot1](https://user-images.githubusercontent.com/89953246/146108181-1c693555-b057-406c-8d8b-82b2bffc5bd2.png)
+
 
 
 ![tTestLot2](https://user-images.githubusercontent.com/89953246/146108247-26e42bec-173a-405f-9c7e-421869f646df.png)

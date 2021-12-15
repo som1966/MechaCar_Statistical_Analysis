@@ -12,5 +12,8 @@ Multiple linear regression analysis was used to identify which variables in the 
 ![Summary LinRegmpg](https://user-images.githubusercontent.com/89953246/146079129-9f7df7b5-557a-4279-bf13-00ac1c4368e5.png)
  1.  The regression model identifies vehicle length and ground clearance provides a non-random amount of variance based on the PR(>T)  to the mpg values in the dataset.
  2.  The slope of the linear mode is not zero, there are two variables that are considered significant and affects mpg.
- 3.  The linear model predicts mpg of MechaCar prototypes effectively based on the R-sqaure of 0.71
-Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+ 3.  The linear model predicts mpg of MechaCar prototypes effectively based on the R-sqaured of 0.714. The R-squared means that 71% of the data fits the model.
+ 
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+

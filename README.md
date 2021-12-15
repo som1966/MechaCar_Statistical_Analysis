@@ -31,4 +31,5 @@ Overall PSI variance for the complete dataset is 6.29 which meets design specifi
 
 ![tTestLot2](https://user-images.githubusercontent.com/89953246/146108247-26e42bec-173a-405f-9c7e-421869f646df.png)
 
-![tTestLot2](https://user-images.githubusercontent.com/89953246/146108284-532dad9a-d7c1-492a-913e-2daa1e3ae394.png)
+![tTestLot3](https://user-images.githubusercontent.com/89953246/146108395-aa08cbc0-021c-443d-b4ef-3572d4353f47.png)
+

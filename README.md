@@ -25,7 +25,12 @@ Overall PSI variance for the complete dataset is 6.29 which meets design specifi
 
 ## T Tests on Suspension Coils
 
+T tests were conduct to see if there was a difference from the sample means and the presumed population mean. 
+t test for all lots:
+
 ![t testAllLots](https://user-images.githubusercontent.com/89953246/146108145-22537314-966f-42a8-831a-9bd3eff8143b.png)
+
+The p value is .05 (95% confidence interval)
 
 ![TtesLot1](https://user-images.githubusercontent.com/89953246/146108181-1c693555-b057-406c-8d8b-82b2bffc5bd2.png)
 
